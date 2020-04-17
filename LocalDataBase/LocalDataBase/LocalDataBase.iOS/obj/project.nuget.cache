@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "1rfpFFgJ8BgihxG/lA7fbk5g3bbqzBk6lTaTw3fy8wYnT75KBSCx+7JjvX3xlHED/x077CXza6QsNNl+RcQpFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\getpy\\source\\repos\\LocalDataBase\\LocalDataBase\\LocalDataBase.iOS\\LocalDataBase.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\getpy\\.nuget\\packages\\sqlite-net-pcl\\1.6.292\\sqlite-net-pcl.1.6.292.nupkg.sha512",
+    "C:\\Users\\getpy\\.nuget\\packages\\sqlitepclraw.bundle_green\\1.1.13\\sqlitepclraw.bundle_green.1.1.13.nupkg.sha512",
+    "C:\\Users\\getpy\\.nuget\\packages\\sqlitepclraw.core\\1.1.13\\sqlitepclraw.core.1.1.13.nupkg.sha512",
+    "C:\\Users\\getpy\\.nuget\\packages\\sqlitepclraw.provider.sqlite3.ios_unified\\1.1.13\\sqlitepclraw.provider.sqlite3.ios_unified.1.1.13.nupkg.sha512",
+    "C:\\Users\\getpy\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="LocalDataBase.MainPage">
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Entry x:Name="itemName" Placeholder="Product Name" Margin="10" BackgroundColor="AliceBlue" />
+        <Entry x:Name="itemQuantity" Placeholder="Quantity" Margin="10" BackgroundColor="AliceBlue" />
+        <Grid>
+            <Grid.ColumnDefinitions >
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="setBtn" AutomationId="setBtn" Grid.Column="0" Text="Add to Cart" Clicked="setBtn_Clicked" />
+            <Button x:Name="resetBtn" AutomationId="resetBtn" Grid.Column="1" Text="View Cart" Clicked="resetBtn_Clicked" />
+        </Grid>
+        <Label FontSize="Title" Text="" 
+           HorizontalOptions="Center"
+           VerticalOptions="Center"
+           x:Name="loadLabel"    />
+       
+        <ListView x:Name="view" BackgroundColor="Aquamarine">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Name}" Detail="{Binding Quantity}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        
+
+    </StackLayout>
+
+</ContentPage>

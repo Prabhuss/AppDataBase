@@ -1,0 +1,13 @@
+C:\Users\getpy\source\repos\LocalDataBase\LocalDataBase\LocalDataBase\bin\Debug\netstandard2.0\LocalDataBase.deps.json
+C:\Users\getpy\source\repos\LocalDataBase\LocalDataBase\LocalDataBase\bin\Debug\netstandard2.0\LocalDataBase.dll
+C:\Users\getpy\source\repos\LocalDataBase\LocalDataBase\LocalDataBase\bin\Debug\netstandard2.0\ref\LocalDataBase.dll
+C:\Users\getpy\source\repos\LocalDataBase\LocalDataBase\LocalDataBase\bin\Debug\netstandard2.0\LocalDataBase.pdb
+C:\Users\getpy\source\repos\LocalDataBase\LocalDataBase\LocalDataBase\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\getpy\source\repos\LocalDataBase\LocalDataBase\LocalDataBase\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\getpy\source\repos\LocalDataBase\LocalDataBase\LocalDataBase\obj\Debug\netstandard2.0\LocalDataBase.AssemblyInfoInputs.cache
+C:\Users\getpy\source\repos\LocalDataBase\LocalDataBase\LocalDataBase\obj\Debug\netstandard2.0\LocalDataBase.AssemblyInfo.cs
+C:\Users\getpy\source\repos\LocalDataBase\LocalDataBase\LocalDataBase\obj\Debug\netstandard2.0\LocalDataBase.dll
+C:\Users\getpy\source\repos\LocalDataBase\LocalDataBase\LocalDataBase\obj\Debug\netstandard2.0\ref\LocalDataBase.dll
+C:\Users\getpy\source\repos\LocalDataBase\LocalDataBase\LocalDataBase\obj\Debug\netstandard2.0\LocalDataBase.pdb
+C:\Users\getpy\source\repos\LocalDataBase\LocalDataBase\LocalDataBase\obj\Debug\netstandard2.0\LocalDataBase.csproj.CoreCompileInputs.cache
+C:\Users\getpy\source\repos\LocalDataBase\LocalDataBase\LocalDataBase\obj\Debug\netstandard2.0\XamlC.stamp
