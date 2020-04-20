@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="DemoAPI.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Entry x:Name="mobileNo" Placeholder="Mobile Number" Margin="10" BackgroundColor="AliceBlue" Keyboard="Numeric"/>
+        <Entry x:Name="mID" Placeholder="M ID" Margin="10" BackgroundColor="AliceBlue" Keyboard="Numeric" />
+        
+        <Grid>
+            <Grid.ColumnDefinitions >
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="setBtn" Grid.Column="0" Text="View" Clicked="setBtn_Clicked" />
+            <Button x:Name="resetBtn" Grid.Column="1" Text="Reset" Clicked="resetBtn_Clicked" />
+        </Grid>
+        <Label FontSize="Title"
+           HorizontalOptions="Center"
+           VerticalOptions="Center"
+           x:Name="loadLabel"
+           Text="Use following to test:\n Number:9898989898\n mid:180"/>
+        <ListView x:Name="view" BackgroundColor="AntiqueWhite" ItemsSource="{Binding CustomerDetailsModel}" HasUnevenRows="True" >
+            <ListView.ItemTemplate >
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Padding="4">
+                            <Label Text="{Binding PhoneNumber,StringFormat='PhoneNumber: {0:F0)}'}" TextColor="Black"  
+                                   FontAttributes="Bold" FontSize="Medium" />
+                            <Label Text="{Binding StoreCustomerId,StringFormat='StoreCustomerId: {0}'}" TextColor="Blue"  FontSize="Medium"/>
+                            <Label Text="{Binding FirstName,StringFormat='FirstName: {0:F0)}'}" TextColor="Blue"  FontSize="Medium"/>
+                            <Label Text="{Binding LastName,StringFormat='LastName: {0:F0)}'}" TextColor="Blue"  FontSize="Medium"/>
+                            <Label Text="{Binding Email,StringFormat='Email: {0:F0)}'}" TextColor="Blue"  FontSize="Medium"/>
+                            <Label Text="{Binding Address,StringFormat='Address: {0:F0)}'}" TextColor="Blue"  FontSize="Medium"/>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+
+</ContentPage>

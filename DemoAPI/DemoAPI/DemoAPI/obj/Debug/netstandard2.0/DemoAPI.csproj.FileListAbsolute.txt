@@ -1,0 +1,14 @@
+C:\Users\getpy\source\repos\DemoAPI\DemoAPI\DemoAPI\bin\Debug\netstandard2.0\DemoAPI.deps.json
+C:\Users\getpy\source\repos\DemoAPI\DemoAPI\DemoAPI\bin\Debug\netstandard2.0\DemoAPI.dll
+C:\Users\getpy\source\repos\DemoAPI\DemoAPI\DemoAPI\obj\Debug\netstandard2.0\DemoAPI.csprojAssemblyReference.cache
+C:\Users\getpy\source\repos\DemoAPI\DemoAPI\DemoAPI\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\getpy\source\repos\DemoAPI\DemoAPI\DemoAPI\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\getpy\source\repos\DemoAPI\DemoAPI\DemoAPI\obj\Debug\netstandard2.0\DemoAPI.AssemblyInfoInputs.cache
+C:\Users\getpy\source\repos\DemoAPI\DemoAPI\DemoAPI\obj\Debug\netstandard2.0\DemoAPI.AssemblyInfo.cs
+C:\Users\getpy\source\repos\DemoAPI\DemoAPI\DemoAPI\bin\Debug\netstandard2.0\ref\DemoAPI.dll
+C:\Users\getpy\source\repos\DemoAPI\DemoAPI\DemoAPI\bin\Debug\netstandard2.0\DemoAPI.pdb
+C:\Users\getpy\source\repos\DemoAPI\DemoAPI\DemoAPI\obj\Debug\netstandard2.0\DemoAPI.dll
+C:\Users\getpy\source\repos\DemoAPI\DemoAPI\DemoAPI\obj\Debug\netstandard2.0\ref\DemoAPI.dll
+C:\Users\getpy\source\repos\DemoAPI\DemoAPI\DemoAPI\obj\Debug\netstandard2.0\DemoAPI.pdb
+C:\Users\getpy\source\repos\DemoAPI\DemoAPI\DemoAPI\obj\Debug\netstandard2.0\DemoAPI.csproj.CoreCompileInputs.cache
+C:\Users\getpy\source\repos\DemoAPI\DemoAPI\DemoAPI\obj\Debug\netstandard2.0\XamlC.stamp
